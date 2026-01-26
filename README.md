@@ -5,7 +5,7 @@ I'm a **2nd-year CSE-AIML student** passionate about building intelligent system
 
 - 🌱 Learning: **Advanced RAG architectures, LangGraph workflows**
 - 👯 Open to: **Collaborations on AI/ML projects, hackathons, internships**
-- 💬 Ask me about: **Voice agents, chatbots, no-code AI tools, Python**
+- 💬 Projects: **Voice agents, chatbots, no-code AI tools, Python**
 - ⚡ Fun fact: **I convert voice to SQL queries because typing is overrated!**
 
 ---
@@ -63,7 +63,6 @@ I'm a **2nd-year CSE-AIML student** passionate about building intelligent system
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=10Prachi2006&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=10Prachi2006&layout=compact&langs_count=8&theme=radical"/>
 </div>
 
