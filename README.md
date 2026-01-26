@@ -1,7 +1,7 @@
 # Hi there, I'm Prachi Yadav 👋
 
 ## 💫 About Me
-🎓 [Your current status - student/developer/professional]
+🎓 Student
 💼 Aspiring [Your target role - e.g., Full Stack Developer/Data Scientist]
 🌱 Currently learning [Technologies you're learning]
 👯 Looking to collaborate on [Type of projects]
