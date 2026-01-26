@@ -3,7 +3,6 @@
 ## 🚀 About Me
 I'm a **2nd-year CSE-AIML student** passionate about building intelligent systems that solve real-world problems. I love experimenting with **AI agents, GenAI, and full-stack development** to create impactful solutions.
 
-- 🔭 Currently working on: **Interview Automation System with GenAI**
 - 🌱 Learning: **Advanced RAG architectures, LangGraph workflows**
 - 👯 Open to: **Collaborations on AI/ML projects, hackathons, internships**
 - 💬 Ask me about: **Voice agents, chatbots, no-code AI tools, Python**
@@ -68,9 +67,6 @@ I'm a **2nd-year CSE-AIML student** passionate about building intelligent system
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=10Prachi2006&layout=compact&langs_count=8&theme=radical"/>
 </div>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=10Prachi2006&theme=radical" alt="GitHub Streak"/>
-</div>
 
 ---
 
