@@ -44,7 +44,7 @@
 - 🔹 Built with **Python, LangFlow, Streamlit**
 - 🔹 Supports **multilingual voice input** (English, Hindi, Spanish, French, German)
 - 🔹 Real-time statistics tracking & instant SQL execution
-- 🔹 **Tech:** Groq API, SpeechRecognition, Pandas
+- 🔹 **Tech:** Gemini API, SpeechRecognition, Pandas
 
 ### 🧠 [SmartRAG: AI Decision Support Agent](https://github.com/10Prachi2006/RAG-Based-Agent)
 **Conversational analytics dashboard powered by Google Gemini**
