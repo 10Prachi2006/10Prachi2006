@@ -1,4 +1,4 @@
-[!MasterHead](file:///D:/Prachi/Prachi's%20Documents/3d-rendering-cartoon-cacti-with-friendly-face.jpg)
+[!MasterHead](./3d-rendering-cartoon-cacti-with-friendly-face.jpg)
 <h1 align="center">Hi 👋, I'm Prachi Yadav</h1>
 <h3 align="center">I'm a 2nd-year CSE-AIML student passionate about building intelligent systems that solve real-world problems. I love experimenting with AI agents, GenAI, and full-stack development to create impactful solutions.</h3>
 
