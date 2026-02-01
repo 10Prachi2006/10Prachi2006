@@ -1,7 +1,7 @@
 <p align="center">
   <img src="./3d-rendering-cartoon-cacti-with-friendly-face.jpg" alt="MasterHead" width="100%" />
 </p>
-<h1 align="center">Hi 👋, I'm Prachi Yadav</h1>
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi 👋, I'm Prachi Yadav)](https://git.io/typing-svg)
 <h3 align="center">I'm a 2nd-year CSE-AIML student passionate about building intelligent systems that solve real-world problems. I love experimenting with AI agents, GenAI, and full-stack development to create impactful solutions.</h3>
 
 
