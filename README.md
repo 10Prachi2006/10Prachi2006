@@ -53,6 +53,11 @@
 - 🔹 Built for **HR, Healthcare, Finance** use cases
 - 🔹 **Tech:** LlamaIndex, Gemini 2.5, Streamlit
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
+  <img alt="github-snake" src="github-snake.svg" />
+</picture>
 ### 💄 [Jeevan AI Beauty Advisor](https://github.com/10Prachi2006/Jeevan-Chatbot)
 **Multi-channel chatbot for beauty consultations**
 - 🔹 Deployed on **Telegram & WhatsApp**
