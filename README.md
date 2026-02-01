@@ -3,7 +3,12 @@
 </p>
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&pause=1002&color=0C9B9F&background=9200DF00&width=430&height=49&lines=Hi+%F0%9F%91%8B%2C+I'm+Prachi+Yadav" alt="Typing SVG" /></a>
 
-<h3 align="center" background=#9200DF00>I'm a 2nd-year CSE-AIML student passionate about building intelligent systems that solve real-world problems. I love experimenting with AI agents, GenAI, and full-stack development to create impactful solutions.</h3>
+<h3 align="center" style="color:#0C9B9F;">
+I'm a 2nd-year CSE-AIML student passionate about building intelligent systems that solve real-world problems. 
+I love experimenting with AI agents, GenAI, and full-stack development to create impactful solutions.
+</h3>
+
+
 
 
 
@@ -63,7 +68,3 @@
 
 ---
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
-  <img alt="github-snake" src="github-snake.svg" />
-</picture>
