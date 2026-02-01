@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="./3d-rendering-cartoon-cacti-with-friendly-face.jpg" alt="MasterHead" width="100%" />
-</p>
+
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&pause=1002&color=0C9B9F&background=9200DF00&width=430&height=49&lines=Hi+%F0%9F%91%8B%2C+I'm+Prachi+Yadav" alt="Typing SVG" /></a>
 
 <h3 align="center" style="color:#0C9B9F;">
