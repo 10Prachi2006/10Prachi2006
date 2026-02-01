@@ -1,8 +1,9 @@
 <p align="center">
   <img src="./3d-rendering-cartoon-cacti-with-friendly-face.jpg" alt="MasterHead" width="100%" />
 </p>
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi 👋, I'm Prachi Yadav)](https://git.io/typing-svg)
-<h3 align="center">I'm a 2nd-year CSE-AIML student passionate about building intelligent systems that solve real-world problems. I love experimenting with AI agents, GenAI, and full-stack development to create impactful solutions.</h3>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&pause=1002&color=0C9B9F&background=9200DF00&width=430&height=49&lines=Hi+%F0%9F%91%8B%2C+I'm+Prachi+Yadav" alt="Typing SVG" /></a>
+
+<h3 align="center" background=#9200DF00>I'm a 2nd-year CSE-AIML student passionate about building intelligent systems that solve real-world problems. I love experimenting with AI agents, GenAI, and full-stack development to create impactful solutions.</h3>
 
 
 
@@ -13,7 +14,7 @@
 
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=10prachi2006&label=Profile%20views&color=0e75b6&style=flat" alt="10prachi2006" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=10prachi2006&label=Visitors&color=0e75b6&style=flat" alt="10prachi2006" /> </p>
 
 - 🔭 I’m currently working on **Advanced RAG architectures, LangGraph workflows**
 
