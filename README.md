@@ -40,16 +40,6 @@ I love experimenting with AI agents, GenAI, and full-stack development to create
 | <a href="https://git.com"><img src="https://vectorlogo.zone" width="40"/></a> | <a href="https://heroku.com"><img src="https://vectorlogo.zone" width="40"/></a> | <a href="https://html5.com"><img src="https://githubusercontent.com" width="40"/></a> | <a href="https://java.com"><img src="https://githubusercontent.com" width="40"/></a> | <a href="https://javascript.com"><img src="https://githubusercontent.com" width="40"/></a> | <a href="https://mongodb.com"><img src="https://githubusercontent.com" width="40"/></a> | <a href="https://mssql.com"><img src="https://svgrepo.com" width="40"/></a> | <a href="https://mysql.com"><img src="https://githubusercontent.com" width="40"/></a> | <a href="https://nodejs.org"><img src="https://githubusercontent.com" width="40"/></a> | <a href="https://pandas.com"><img src="https://githubusercontent.com" width="40"/></a> |
 | <a href="https://postman.com"><img src="https://vectorlogo.zone" width="40"/></a> | <a href="https://python.org"><img src="https://githubusercontent.com" width="40"/></a> | <a href="https://pytorch.org"><img src="https://vectorlogo.zone" width="40"/></a> | <a href="https://reactjs.org"><img src="https://githubusercontent.com" width="40"/></a> | <a href="https://sass.com"><img src="https://githubusercontent.com" width="40"/></a> | <a href="https://sklearn.com"><img src="https://wikimedia.org" width="40"/></a> | <a href="https://seaborn.com"><img src="https://pydata.org" width="40"/></a> | <a href="https://tailwind.com"><img src="https://vectorlogo.zone" width="40"/></a> | <a href="https://tensorflow.org"><img src="https://vectorlogo.zone" width="40"/></a> | <a href="https://zapier.com"><img src="https://vectorlogo.zone" width="40"/></a> |
 
----
-
-# 📊 GitHub Stats:
-![](https://vercel.app)<br/>
-
----
-
-## 🏆 Featured Projects
-Use code with caution.What was changed:Table Layout: Your icons are now in a GitHub Markdown Table, which forces items to stay horizontal in rows of 10.Alignment: Added :---: in the header row to center every icon automatically.Clean Links: Removed unnecessary newline characters between your icon links to prevent broken layouts.Alternatively, you can try using Skill Icons to generate all your icons in a single line with just one link!Does this table-based grid look better on your profile, or should we try a different row size?
-
 
 ---
 
