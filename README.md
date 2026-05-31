@@ -1,5 +1,5 @@
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=22&pause=1002&color=0C9B9F&background=9200DF00&width=440&height=59&lines=Hi+%F0%9F%91%8B%2C+I'm+Prachi+SandipKumar" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1002&color=0C9B9F&background=9200DF00&width=440&height=39&lines=Hi+%F0%9F%91%8B%2C+I'm+Prachi+SandipKumar" alt="Typing SVG" /></a>
 
 <h3 align="center" style="color:#0C9B9F;">
 I'm a 2nd-year CSE-AIML student passionate about building intelligent systems that solve real-world problems. 
