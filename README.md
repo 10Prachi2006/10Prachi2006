@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Prachi%20Yadav&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20Engineer%20%E2%80%A2%20Generative%20AI%20%E2%80%A2%20Agentic%20Systems&descSize=18&descAlignY=58" width="100%"/>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=0C9B9F&center=true&vCenter=true&width=650&lines=I+don't+study+AI+%E2%80%94+I+build+it.;Building+production+RAG+%2B+Multi-Agent+systems;6-month+GenAI+Internship+%40+ArogyaPandit;Currently%3A+Amazon+ML+Summer+School+2026+Scholar" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=0C9B9F&center=true&vCenter=true&width=650&lines=I+don't+study+AI+%E2%80%94+I+build+it.;Building+production+RAG+%2B+Multi-Agent+systems;6-month+GenAI+Internship+%40+ArogyaPandit" alt="Typing SVG" /></a>
 
 <p>
   <img src="https://img.shields.io/badge/B.Tech-CSE%20(AI%2FML)-1C3A5E?style=for-the-badge"/>
@@ -23,12 +23,12 @@
 
 ## 🧭 About Me
 
-I'm a B.Tech CSE (AI/ML) student who spent my third semester **debugging a Bayesian Network in production** instead of sitting through it in a textbook. That's the pattern behind everything here — **BUILD → BREAK → DEBUG → REBUILD → UNDERSTAND**. Every repo below exists because a real problem forced me to learn the theory, not the other way around.
+I'm a B.Tech CSE (AI/ML) student who spent my third semester **debugging a Bayesian Network in production** instead of sitting through it in a textbook. That's the pattern behind everything here ➺  **BUILD → BREAK → DEBUG → REBUILD → UNDERSTAND**. Every repo below exists because a real problem forced me to learn the theory, not the other way around.
 
-- 🔬 6 months as a **Generative AI Intern** at ArogyaPandit Private Limited — shipped two production AI systems (clinical knowledge graph + voice AI interview assistant)
+- 🔬 6 months as a **Generative AI Intern** at ArogyaPandit Private Limited ➺  shipped two production AI systems (clinical knowledge graph + voice AI interview assistant)
 - 🏆 Shortlisted for **Amazon ML Summer School 2026** out of ~1.29 lakh applicants
 - 🧠 Currently deep in **Large-Scale ML, Recommendation Systems, Causality & RL**
-- 🛠️ I build end-to-end — model → API → UI → deployment — and I ship to production, not just notebooks
+- 🛠️ I build end-to-end ➺ model → API → UI → deployment ➺  and I ship to production, not just notebooks
 - 📫 Reach me at **starletprachi10@gmail.com**
 
 <br/>
@@ -39,7 +39,7 @@ I'm a B.Tech CSE (AI/ML) student who spent my third semester **debugging a Bayes
 <tr>
 <td width="50%" valign="top">
 
-### 🌿 [Patta-Toh-Bata — Plant Disease Detection](https://github.com/10Prachi2006/Plant-Disease-Prediction)
+### 🌿 [Patta-Toh-Bata ➺  Plant Disease Detection](https://github.com/10Prachi2006/Plant-Disease-Prediction)
 Deep-learning vision system that classifies **38 plant diseases across 14 crops** from a single leaf photo.
 
 - MobileNetV2 transfer learning → **~96% test accuracy**
@@ -53,7 +53,7 @@ Deep-learning vision system that classifies **38 plant diseases across 14 crops*
 </td>
 <td width="50%" valign="top">
 
-### 🧠 [SmartRAG — Gemini-Powered Decision Support](https://github.com/10Prachi2006/RAG-Based-Agent)
+### 🧠 [SmartRAG ➺  Gemini-Powered Decision Support](https://github.com/10Prachi2006/RAG-Based-Agent)
 Upload any CSV (HR / healthcare / finance) and get real-time, natural-language answers grounded in your own data.
 
 - Query → **Pandas code**, transparently, via Gemini 2.5
@@ -70,7 +70,7 @@ Upload any CSV (HR / healthcare / finance) and get real-time, natural-language a
 <td width="50%" valign="top">
 
 ### 🎙️ [Enterprise AI Voice-SQL Platform](https://github.com/10Prachi2006/SQL-Voice-Agent)
-Speak a question, get back a live SQL query and results — no SQL knowledge required.
+Speak a question, get back a live SQL query and results ➺  no SQL knowledge required.
 
 - Voice **and** text input, 5 languages including Hindi
 - Langflow-orchestrated NL → SQL pipeline with real-time execution stats
@@ -83,8 +83,8 @@ Speak a question, get back a live SQL query and results — no SQL knowledge req
 </td>
 <td width="50%" valign="top">
 
-### 🔥 [Taana-Tracker — Sarcasm Intelligence (Hindi+English)](https://github.com/10Prachi2006/Sarcasm-Intelligence-System)
-Fine-tuned **XLM-RoBERTa** transformer that detects sarcasm in code-switched Hinglish text — and is transparent about when it's wrong.
+### 🔥 [Taana-Tracker ➺  Sarcasm Intelligence (Hindi+English)](https://github.com/10Prachi2006/Sarcasm-Intelligence-System)
+Fine-tuned **XLM-RoBERTa** transformer that detects sarcasm in code-switched Hinglish text ➺  and is transparent about when it's wrong.
 
 - **94% accuracy / F1 0.94** on a 1,439-sample held-out test set
 - Dedicated *Stress Test* tab surfacing real model failure cases
@@ -118,7 +118,7 @@ LLM-powered resume review tool with structured, rubric-based feedback tailored t
 
 - GPT-4o-mini with prompt-engineered scoring rubrics
 - Role-specific feedback + PDF/TXT parsing
-- Structured, actionable output — not generic praise
+- Structured, actionable output ➺  not generic praise
 
 `LLM` `LangChain` `Prompt Engineering` `Streamlit`
 
@@ -129,7 +129,7 @@ LLM-powered resume review tool with structured, rubric-based feedback tailored t
 </table>
 
 <div align="center">
-<sub>📚 Also worth a look: <a href="https://github.com/10Prachi2006/Transformers"><b>The Transformer Masterclass</b></a> — a 148-page, 50+ diagram, first-principles guide to Transformer architecture, written and illustrated from scratch.</sub>
+<sub>📚 Also worth a look: <a href="https://github.com/10Prachi2006/Transformers"><b>The Transformer Masterclass</b></a> ➺  a 148-page, 50+ diagram, first-principles guide to Transformer architecture, written and illustrated from scratch.</sub>
 </div>
 
 <br/>
@@ -188,7 +188,7 @@ Large-Scale ML · Recommendation Systems · Causal Inference · Reinforcement Le
 ## 💼 Experience
 
 **Generative AI Intern** · ArogyaPandit Private Limited · Oct 2025 – Mar 2026
-- Designed a multi-layer clinical knowledge graph (Type 2 Diabetes & CVD) in Neo4j — Cypher rules + SNOMED CT ontology + a custom Bayesian Network with KL Divergence coherence scoring → **92% alignment with medical literature**
+- Designed a multi-layer clinical knowledge graph (Type 2 Diabetes & CVD) in Neo4j ➺  Cypher rules + SNOMED CT ontology + a custom Bayesian Network with KL Divergence coherence scoring → **92% alignment with medical literature**
 - Architected an end-to-end voice-based AI interview assistant (LangChain + LangFlow) with behavioral signal detection → **~70% reduction in manual HR effort**
 
 <br/>
