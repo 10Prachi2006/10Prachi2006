@@ -108,7 +108,7 @@ Two calibrated Random Forest models that predict reply probability and ghosting 
 
 `Scikit-Learn` `Random Forest` `Streamlit` `Calibration`
 
-**[🔴 Live Demo](https://prachisandipkumar-ghostingprediction101.hf.space)**
+**[🔴 Live Demo](https://prachisandipkumar-ghostingprediction101.hf.space/)**
 
 </td>
 <td width="50%" valign="top">
