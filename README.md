@@ -31,17 +31,17 @@
 <tr>
 <td width="60%" valign="top">
 
-I'm a B.Tech CSE (AI/ML) student who spent my third semester **debugging a Bayesian Network in production** instead of sitting through the lecture on it. Everything in this profile exists because a real problem forced me to learn the theory — never the other way around.
+I'm a B.Tech CSE (AI/ML) student who spent my third semester **debugging a Bayesian Network in production** instead of sitting through the lecture on it. Everything in this profile exists because a real problem forced me to learn the theory ➺ never the other way around.
 
 ### `BUILD → BREAK → DEBUG → REBUILD → UNDERSTAND`
 
-🔬 &nbsp;**6 months** as a Generative AI Intern at **ArogyaPandit Private Limited** — shipped a clinical knowledge graph + a voice AI interview assistant to production
+🔬 &nbsp;**6 months** as a Generative AI Intern at **ArogyaPandit Private Limited** ➺ shipped a clinical knowledge graph + a voice AI interview assistant to production
 
 🏆 &nbsp;Shortlisted for **Amazon ML Summer School 2026** out of ~1.29 lakh applicants
 
 🧠 &nbsp;Going deep on **Large-Scale ML, Recommendation Systems, Causality & Reinforcement Learning**
 
-🛠️ &nbsp;I build end-to-end — model → agent orchestration → API → UI → deployment — and ship to production, not notebooks
+🛠️ &nbsp;I build end-to-end ➺ model → agent orchestration → API → UI → deployment ➺ and ship to production, not notebooks
 
 📫 &nbsp;**starletprachi10@gmail.com**
 
@@ -62,7 +62,7 @@ I'm a B.Tech CSE (AI/ML) student who spent my third semester **debugging a Bayes
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00C9FF,50:8E2DE2,100:FF0080&height=85&text=%E2%AD%90%20Parchee%20(%E0%A4%AA%E0%A4%B0%E0%A5%8D%E0%A4%9A%E0%A5%80)%20%E2%80%94%20Flagship%20Project&fontSize=26&fontColor=ffffff&fontAlignY=55" width="100%"/>
 
-**A production, multi-agent clinical intelligence system** — reads handwritten prescriptions, explains medication in plain language, remembers patient history, and answers clinically-grounded questions.
+**A production, multi-agent clinical intelligence system** ➺ reads handwritten prescriptions, explains medication in plain language, remembers patient history, and answers clinically-grounded questions.
 
 <p>
 <img src="https://img.shields.io/badge/LangGraph-5--Agent%20StateGraph-8E2DE2?style=for-the-badge&labelColor=141321"/>
@@ -71,7 +71,7 @@ I'm a B.Tech CSE (AI/ML) student who spent my third semester **debugging a Bayes
 <img src="https://img.shields.io/badge/Deployed-HuggingFace%20Spaces-FFD21E?style=for-the-badge&labelColor=141321&logo=huggingface&logoColor=black"/>
 </p>
 
-`OCR Agent → Medication Agent (RAG) → Visit-Prep Agent → Memory Agent → Timeline Agent` — orchestrated as a typed LangGraph `StateGraph`, grounded in **3,492 chunks across 11 clinical PDFs**, with a custom fix for HF Spaces' read-only filesystem constraint on WAL-mode SQLite.
+`OCR Agent → Medication Agent (RAG) → Visit-Prep Agent → Memory Agent → Timeline Agent` ➺ orchestrated as a typed LangGraph `StateGraph`, grounded in **3,492 chunks across 11 clinical PDFs**, with a custom fix for HF Spaces' read-only filesystem constraint on WAL-mode SQLite.
 
 **[🚀 Live Demo](https://huggingface.co/spaces/PrachiSandipkumar/medical-ai-assistant) &nbsp;·&nbsp; [📂 Repository](https://github.com/10Prachi2006/Medical-AI)**
 
@@ -101,7 +101,7 @@ Upload any CSV (HR / healthcare / finance) → ask questions in plain English �
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=FF0080&height=60&text=%F0%9F%8E%99%EF%B8%8F%20Enterprise%20AI%20Voice-SQL%20Platform&fontSize=20&fontColor=ffffff&fontAlignY=55" width="100%"/>
 
-Speak a question, get back a live SQL query and results — no SQL knowledge required.
+Speak a question, get back a live SQL query and results ➺ no SQL knowledge required.
 
 <img src="https://img.shields.io/badge/LangFlow-00C9FF?style=flat-square&labelColor=141321"/> <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white"/> <img src="https://img.shields.io/badge/SpeechRecognition-8E2DE2?style=flat-square&labelColor=141321"/>
 &nbsp;&nbsp;**📊 Voice + text input** · 5 languages incl. Hindi · real-time query success-rate tracking
@@ -112,7 +112,7 @@ Speak a question, get back a live SQL query and results — no SQL knowledge req
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=00C9FF&height=60&text=%F0%9F%94%A5%20Taana-Tracker%20%E2%80%94%20Sarcasm%20Intelligence&fontSize=20&fontColor=ffffff&fontAlignY=55" width="100%"/>
 
-Fine-tuned **XLM-RoBERTa** transformer detecting sarcasm in code-switched Hinglish text — and admitting when it's unsure.
+Fine-tuned **XLM-RoBERTa** transformer detecting sarcasm in code-switched Hinglish text ➺ and admitting when it's unsure.
 
 <img src="https://img.shields.io/badge/XLM--RoBERTa-8E2DE2?style=flat-square&labelColor=141321"/> <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/> <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black"/>
 &nbsp;&nbsp;**📊 94% accuracy / 0.94 F1** on 1,439 held-out samples · honest "Stress Test" failure-case tab
@@ -144,7 +144,7 @@ LLM-powered structured resume review with role-specific, rubric-based feedback.
 <br/>
 
 <div align="center">
-<sub>📚 &nbsp;Also worth a look: <a href="https://github.com/10Prachi2006/Transformers"><b>The Transformer Masterclass</b></a> — a 148-page, 50+ diagram, first-principles guide to Transformer architecture, written and illustrated from scratch.</sub>
+<sub>📚 &nbsp;Also worth a look: <a href="https://github.com/10Prachi2006/Transformers"><b>The Transformer Masterclass</b></a> ➺ a 148-page, 50+ diagram, first-principles guide to Transformer architecture, written and illustrated from scratch.</sub>
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00C9FF,50:8E2DE2,100:FF0080&height=4&width=1000" width="100%"/>
@@ -190,7 +190,7 @@ LLM-powered structured resume review with role-specific, rubric-based feedback.
 
 <p align="center"><i>Oct 2025 – Mar 2026 &nbsp;·&nbsp; Ahmedabad, India</i></p>
 
-- 🩺 Designed a multi-layer **clinical knowledge graph** (Type 2 Diabetes & CVD) in Neo4j — Cypher structural rules (25%) + SNOMED CT semantic ontology (25%) + a custom Bayesian Network with KL Divergence coherence scoring (50%) → **92% alignment with medical literature** across 11 ontology rules
+- 🩺 Designed a multi-layer **clinical knowledge graph** (Type 2 Diabetes & CVD) in Neo4j ➺ Cypher structural rules (25%) + SNOMED CT semantic ontology (25%) + a custom Bayesian Network with KL Divergence coherence scoring (50%) → **92% alignment with medical literature** across 11 ontology rules
 - 🎙️ Architected an end-to-end **voice-based AI interview assistant** (LangChain + LangFlow) with behavioral signal detection and structured hiring-report generation → **~70% reduction in manual HR effort**
 - 🗣️ Built and deployed a **Voice-to-SQL Agentic AI system** (LangFlow + Streamlit) with an integrated NLP speech-analytics pipeline for candidate confidence/coherence scoring
 
@@ -214,7 +214,7 @@ LLM-powered structured resume review with role-specific, rubric-based feedback.
 </p>
 
 <!--
-🐍 Contribution Snake — one-time setup: add snake.yml to .github/workflows/ in this repo, let it run once, then uncomment:
+🐍 Contribution Snake ➺ one-time setup: add snake.yml to .github/workflows/ in this repo, let it run once, then uncomment:
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/10Prachi2006/10Prachi2006/output/github-contribution-grid-snake-dark.svg" />
