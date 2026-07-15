@@ -60,7 +60,7 @@ I'm a B.Tech CSE (AI/ML) student who spent my third semester **debugging a Bayes
 
 # 🚀 Featured Projects
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00C9FF,50:8E2DE2,100:FF0080&height=85&text=%E2%AD%90%20Parchee%20(%E0%A4%AA%E0%A4%B0%E0%A5%8D%E0%A4%9A%E0%A5%80)%20%E2%80%93%20Flagship%20Clinical%20Intelligence&fontSize=20&fontColor=ffffff&fontAlignY=55" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00C9FF,50:8E2DE2,100:FF0080&height=85&text=%E2%AD%90%20Parchee%20(%E0%A4%AA%E0%A4%B0%E0%A5%8D%E0%A4%9A%E0%A5%80)%20Flagship%20Clinical%20Intelligence&fontSize=20&fontColor=ffffff&fontAlignY=55" width="100%"/>
 
 **A production, multi-agent clinical intelligence system** ➺ reads handwritten prescriptions, explains medication in plain language, remembers patient history, and answers clinically-grounded questions about drug interactions & contraindications.
 
@@ -77,7 +77,7 @@ I'm a B.Tech CSE (AI/ML) student who spent my third semester **debugging a Bayes
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=00C9FF&height=60&text=%F0%9F%8C%BF%20Patta-Toh-Bata%20%E2%80%93%20Plant%20Disease%20Detection&fontSize=20&fontColor=ffffff&fontAlignY=55" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=00C9FF&height=60&text=%F0%9F%8C%BF%20Patta-Toh-Bata%20Plant%20Disease%20Detection&fontSize=20&fontColor=ffffff&fontAlignY=55" width="100%"/>
 
 Deep-learning vision system classifying **38 diseases across 14 crops** from a single leaf photo, deployed live on HuggingFace Spaces.
 
@@ -88,7 +88,7 @@ Deep-learning vision system classifying **38 diseases across 14 crops** from a s
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=8E2DE2&height=60&text=%F0%9F%A7%A0%20SmartRAG%20%E2%80%93%20Gemini%20Decision%20Support%20Agent&fontSize=20&fontColor=ffffff&fontAlignY=55" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=8E2DE2&height=60&text=%F0%9F%A7%A0%20SmartRAG%20Gemini%20Decision%20Support%20Agent&fontSize=20&fontColor=ffffff&fontAlignY=55" width="100%"/>
 
 Upload any CSV (HR / healthcare / finance) → ask questions in plain English → get grounded, actionable answers.
 
@@ -110,7 +110,7 @@ Speak a question, get back a live SQL query and results ➺ no SQL knowledge req
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=00C9FF&height=60&text=%F0%9F%94%A5%20Taana-Tracker%20%E2%80%93%20Sarcasm%20Intelligence&fontSize=20&fontColor=ffffff&fontAlignY=55" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=00C9FF&height=60&text=%F0%9F%94%A5%20Taana-Tracker%20Sarcasm%20Intelligence&fontSize=20&fontColor=ffffff&fontAlignY=55" width="100%"/>
 
 Fine-tuned **XLM-RoBERTa** transformer detecting sarcasm in code-switched Hinglish text ➺ and admitting when it's unsure.
 
